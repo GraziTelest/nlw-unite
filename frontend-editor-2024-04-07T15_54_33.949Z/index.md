@@ -38,10 +38,10 @@ let participantes = [
     dataCheckIn: new Date(2024,2,25,22,08)
   },
 ] -->
-====================
+<!-- ====================
 CSS
 
 para colocar altura de linha ex: /200%
 
-flex- deixar um elemento ao lado do outro
+flex- deixar um elemento ao lado do outro -->
 
